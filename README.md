@@ -15,4 +15,4 @@ TODO:
 
 __________
 
-logstash -f <path to config file/ or directory>
+logstash -f '<path to config file/ or directory>'
