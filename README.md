@@ -10,3 +10,9 @@ TODO:
 - Change sincedb path
 - Add Linux Logs
 - Adjust timestamp
+
+
+
+__________
+
+logstash -f <path to config file/ or directory>
